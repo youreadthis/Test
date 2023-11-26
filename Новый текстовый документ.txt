@@ -3,4 +3,16 @@ git add .
 git commit -m "комментарий"
 git remote add origin https://....
 git push -u origin main
+<<<<<<< HEAD
 asd
+=======
+
+
+
+
+Здесь был Захар
+Здесь ещё кто-то был
+и еще кто-то
+
+
+>>>>>>> cc93d9499efc04833f40a3a841cfc0b97e11fb0d
